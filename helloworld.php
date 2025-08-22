@@ -1,4 +1,5 @@
 <?php
   # Prueba
-  echo "Hello World..."
+  echo "Hello World...";
+  echo "From PHP.";
 ?>
